@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "s3fs": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
